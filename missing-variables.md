@@ -155,3 +155,16 @@
 ## Noch unklar
 
 - **„cervege“** – aus der Handschrift nicht sicher identifizierbar. Möglicherweise war ein ähnlich geschriebenes französisches Wort gemeint; ohne weiteren Kontext würde ich es lieber nicht falsch ergänzen.
+
+
+Nachtrag 04.11.2026:
+| Französisch | Deutsch |
+|---|---|
+| **passer au tribunal** | vor Gericht erscheinen, vor Gericht kommen |
+| **avec sursis** | auf Bewährung, mit Bewährung (bei einer Strafe) |
+| **entendre dire (que …)** | hören, dass …; vom Hörensagen erfahren |
+| **une taupe** | Maulwurf; auch: Spitzel, eingeschleuste Person |
+| **effacer (un tableau)** | (eine Tafel) abwischen, etwas löschen |
+| **une éponge** | Schwamm |
+| **la rougeole** | Masern |
+| **un camarade de classe / une camarade de classe** | Klassenkamerad / Klassenkameradin |
